@@ -1,0 +1,1 @@
+const s="/apuntes/assets/proceso_memoria-9033b881.png",a="/apuntes/assets/concurrencia_vs_paralelismo-84571e5b.jpg",t="/apuntes/assets/sequential_flowchart-a328f103.png",e="/apuntes/assets/concurrent_flowchart-b7db1a72.png",o="/apuntes/assets/threads_vs_process-22c153e6.jpg";export{s as _,a,t as b,e as c,o as d};
